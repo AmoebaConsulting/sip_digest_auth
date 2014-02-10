@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "sip_digest_auth"
   spec.version       = SipDigestAuth::VERSION
   spec.authors       = ["Daniel Jabbour"]
-  spec.email         = ["daniel@amoe.ba"]
+  spec.email         = ["sayhi@amoe.ba"]
   spec.description   = "Implementation of SIP Digest Authentication as specified in RFC3261"
   spec.summary       = "This gem is to be used with a SIP server to implement Digest Authentication, like HTTP authentication (specified in RFC2617)"
-  spec.homepage      = "http://github.com/AmoebaConsulting/sip_digest_auth"
+  spec.homepage      = "http://github.com/AmoebaLabs/sip_digest_auth"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
