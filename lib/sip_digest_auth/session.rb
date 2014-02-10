@@ -26,5 +26,10 @@ module SipDigestAuth
     # into the library later, and they really belong in the session:
     property :qop, default: 'auth,auth-int'
     property :algorithm, default: 'md5'
+    property :nc, default: 0
+
+    def increment_nc!
+      self.nc = self.nc + 1
+    end
   end
 end

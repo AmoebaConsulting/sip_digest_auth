@@ -60,5 +60,15 @@ describe SipDigestAuth::Session do
     @session.algorithm.must_equal 'md5'
   end
 
+  it "has a nc of 0 by default" do
+    @session.nc.must_equal 0
+  end
+
+  it "can increment nc" do
+    nc = @session.nc
+    @session.increment_nc!
+    @session.nc.must_equal nc+1
+  end
+
 
 end
