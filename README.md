@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/AmoebaLabs/sip_digest_auth.png?branch=master)](https://travis-ci.org/AmoebaLabs/sip_digest_auth)
 [![Dependency Status](https://gemnasium.com/AmoebaLabs/sip_digest_auth.png)](https://gemnasium.com/AmoebaLabs/sip_digest_auth)
 [![Code Climate](https://codeclimate.com/github/AmoebaLabs/sip_digest_auth.png)](https://codeclimate.com/github/AmoebaLabs/sip_digest_auth)
+[![Coverage Status](https://coveralls.io/repos/AmoebaLabs/sip_digest_auth/badge.png)](https://coveralls.io/r/AmoebaLabs/sip_digest_auth)
 
 TODO: Write a gem description
 
