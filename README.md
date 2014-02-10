@@ -1,7 +1,9 @@
 # SipDigestAuth
 
 [![Gem Version](https://badge.fury.io/rb/sip_digest_auth.png)](http://badge.fury.io/rb/sip_digest_auth)
-
+[![Build Status](https://travis-ci.org/AmoebaLabs/sip_digest_auth.png?branch=master)](https://travis-ci.org/AmoebaLabs/sip_digest_auth)
+[![Dependency Status](https://gemnasium.com/AmoebaLabs/sip_digest_auth.png)](https://gemnasium.com/AmoebaLabs/sip_digest_auth)
+[![Code Climate](https://codeclimate.com/github/AmoebaLabs/sip_digest_auth.png)](https://codeclimate.com/github/AmoebaLabs/sip_digest_auth)
 
 TODO: Write a gem description
 
@@ -20,6 +22,8 @@ Or install it yourself as:
     $ gem install sip_digest_auth
 
 ## Usage
+
+See [documentation here](http://documentup.com/AmoebaLabs/sip_digest_auth)
 
 TODO: Write usage instructions here
 
