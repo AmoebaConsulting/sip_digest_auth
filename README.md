@@ -1,5 +1,8 @@
 # SipDigestAuth
 
+[![Gem Version](https://badge.fury.io/rb/sip_digest_auth.png)](http://badge.fury.io/rb/sip_digest_auth)
+
+
 TODO: Write a gem description
 
 ## Installation
